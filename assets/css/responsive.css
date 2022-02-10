@@ -1,0 +1,235 @@
+@media (max-width: 1440px) {
+  .banner_one_text h1{
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70px;
+  }
+}
+
+@media (max-width: 1199px) {
+    .counter_shape{
+        display: none;
+    }
+    .animate_img{
+        display: none;
+    }
+    .section_heading p {
+        padding: 0px 0px;
+    }
+    .banner_one_text h1 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .video_btn {
+        padding-left: 13px;
+    }
+}
+
+@media (max-width: 992px) {
+    #home_one_banner{
+        padding: 100px 0;
+    }
+    .exper_area {
+        bottom: 20px;
+    }
+    .counter_single{
+        padding-bottom: 30px;
+    }
+    .testimonial_left_img,
+    .testimonial_right_img{
+        display: none;
+    }
+    .about_content_card {
+        margin-left:0px;
+        margin-top:0px;
+    }
+    .section_heading {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .theme_card_trapezoid{
+        margin-top: 60px;
+    }
+    .video_btn {
+        padding-left: 35px;
+    }
+    .banner_one_img{
+        display: none;
+    }
+   h2 {
+        font-size: 30px;
+    }
+    .footer_logo ul li:last-child{
+        padding-bottom: 30px;
+    }
+    #footer_area {
+        background-position: -143px 0%;
+    }
+    .cta_right_side{
+        padding-top: 30px;
+    }
+    .widget_area{
+        margin-top: 30px;
+    }
+    .customer_support{
+        margin-top: 30px;
+    }
+    .blog_sidebar{
+        margin-top: 30px;
+    }
+    .blog_sidebar_item {
+        margin-bottom: 30px;
+    }
+    .pricing_button .nav-pills {
+        padding-bottom: 15px;
+    }
+    .main_page .theme_card_trapezoid{
+        margin-bottom: 0px;
+    }
+    #testimonial_main .theme_card_trapezoid {
+        margin-bottom:0px;
+    }
+    .bg_bottom:after {
+        bottom: -1px;
+    }
+    .ps-informations{
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .ptb-100 {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .section_padding {
+        padding: 75px 0;
+    }
+    .pb-100 {
+        padding-bottom: 75px;
+    }
+    #footer_area {
+        background-position: center;
+    }
+    .footer_link ul li:last-child {
+        padding-bottom: 30px;
+    }
+    .fun_fact_area {
+        padding-top: 35px;
+    }
+    .fun_fact_text{
+        padding-top: 30px;
+    }
+
+    .coming-soon-content {
+        padding: 30px 25px
+    }
+
+    .coming-soon-content #timer {
+        margin-top: 20px
+    }
+
+    .coming-soon-content #timer div {
+        width: 100px;
+        height: 105px;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 20px;
+        margin-top: 10px
+    }
+
+    .coming-soon-content h2 {
+        font-size: 22px
+    }
+    .forget_area{
+        text-align: left;
+    }
+   .copyright_left{
+       text-align: center;
+   }
+   .copyright_right{
+       text-align: center;
+       padding-top: 15px;
+   }
+   #inner_common_banner {
+    padding: 80px 0;
+}
+.contact_form {
+    padding: 45px 20px;
+}
+}
+
+@media (max-width: 576px) {
+    .inner_banner_text h2 {
+        font-size: 40px;
+    }
+    .cta_left_side h2 {
+        font-size: 26px;
+        line-height: 39px;
+    }
+    #coming_soon_area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+}
+
+@media (max-width: 480px) {
+    .topbar-list li{
+        margin-right: 0;
+    }
+    .topbar-list li::before{
+        display: none;
+    }
+
+
+    .banner_one_text h1 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .meta_post li {
+        padding: 10px 10px;
+    }
+    .about_content_card {
+        padding: 40px 25px;
+    }
+    .about_content_card h2 {
+        padding-top: 0px;
+        font-size: 20px;
+    }
+    .about_content_card p {
+        padding-top: 10px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    .footer_heading{
+        font-size: 20px;
+    }
+    .cta_right_side .input-group{
+        display: block;
+        width: 100%;
+    }
+    .cta_right_side .input-group input{
+        width: 100%;
+        border-radius: 10px !important;
+    }
+    .cta_right_side .input-group button{
+        width: 100%;
+        margin-top: 20px;
+        border-radius: 10px !important;
+    }
+}
+
+@media (max-width: 361px) {
+    .about_content_card h2 {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+    .banner_one_text h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}
